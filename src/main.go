@@ -31,7 +31,7 @@ func main() {
 	}
 
 	listPage := []modules.PublicPage{
-		{PageName: "iig_academy"},
+		{PageName: "xxx"},
 	}
 
 	fmt.Println("Register database")
